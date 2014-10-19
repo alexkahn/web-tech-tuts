@@ -1,7 +1,5 @@
-flaming-octo-tyrion
-===================
-## This is another heading that we want
-With a paragraph
+Web Dev Tutorials
+=================
 
-* Here is a list
-* With two items
+## Articles:
+[Horses for Courses](Horses for courses.md)
