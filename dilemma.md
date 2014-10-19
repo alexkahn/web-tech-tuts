@@ -1,4 +1,4 @@
-# A Web Developers Dilhemma
+# A Web Developers Dilemma
 
 So you want to make really cool web applications. Congratulations! But now, where to begin? Well, do some searching and you might stumble upon responsive web design, mobile-first principles, and you'll probably learn quickly that HTML(5), CSS(3), JavaScript (especially jQuery) and maybe some PHP if you need to get fancy will suit you. How wrong thou art. That set of tools will get you far in many cases, especially if the information for the application doesn't change, and even if it does all you have to do is edit an HTML file or two. Easy. But what about something like Facebook, Twitter or Instagram? Is that all just HTML, CSS and JavaScript? Yes and no. Yes in the sense that your browser gets just those things when it sends a request but no in the sense that someone sits there and manually edits your profile after you send in an update: that would make those applications un-manageably expensive. 
 
